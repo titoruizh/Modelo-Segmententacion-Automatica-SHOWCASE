@@ -6,11 +6,30 @@ Proyecto de investigación y desarrollo en GeoAI: segmentación binaria (maquina
 Resultados de segmentación (RGB vs Clasificado)
 
 Escena 1
-RGB	Segmentación
-<img src="https://github.com/user-attachments/assets/a584df28-2917-4167-a05f-20556c8de400" width="100%">	<img src="https://github.com/user-attachments/assets/f1ebb32e-e2d4-46c4-829d-bb398ad27c96" width="100%">
+
+<table>
+<tr>
+<th width="50%">RGB</th>
+<th width="50%">Segmentación</th>
+</tr>
+<tr>
+<td><img src="assets/escena1-rgb.png" width="100%"></td>
+<td><img src="assets/escena1-segmentacion.png" width="100%"></td>
+</tr>
+</table>
+
 Escena 2
-RGB	Segmentación
-<img src="https://github.com/user-attachments/assets/43a6eb27-c57d-46ab-b539-cc4895ea850b" width="100%">	<img src="https://github.com/user-attachments/assets/b0492563-e778-49b0-8b78-a33faa36da00" width="100%">
+
+<table>
+<tr>
+<th width="50%">RGB</th>
+<th width="50%">Segmentación</th>
+</tr>
+<tr>
+<td><img src="assets/escena2-rgb.png" width="100%"></td>
+<td><img src="assets/escena2-segmentacion.png" width="100%"></td>
+</tr>
+</table>
 
 
 **Estado:** Modelo V6 (Resolution Sync, 0.25m) validado y listo para despliegue local.
